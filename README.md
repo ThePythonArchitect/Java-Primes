@@ -16,10 +16,12 @@ The benchmark was completed on:
 
 
 Usage:
+
 java Primes 1000000000
 
 
 Output:
+
 Benchmarking 2 algorithms that generate prime numbers.
 
 
